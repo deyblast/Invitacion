@@ -1,0 +1,28 @@
+*{
+    margen: 0;
+}
+
+. contenedor{
+    Antecedentes: CadeteBlue;
+    Anchura: 100VW;
+    Altura: 100VH;
+    alineación de texto: centro;
+}
+
+p{
+    tamaño de fuente: xx-large;
+    Acolchado: 15%;
+}
+
+botón{
+    tamaño de fuente: xx-large;
+    Acolchado: 0.75em;
+}
+
+#yesBtn{
+    transformar: traducir(-100%,0);
+}
+
+#noBtn{
+    Posición: absoluta;
+}
